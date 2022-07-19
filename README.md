@@ -3,11 +3,11 @@
 <img width="35%" align="right" alt="Development" src="https://camo.githubusercontent.com/95475d0056f99f50fba3b5f027ac9fbb15d0fc422f675d445df20ccac6e70539/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632313730353534323433372f3473685579456b32742e676966" />
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- Apaixonado por programação, sou um desenvolvedor de software estudando na BeTrybe<br> 
+- Apaixonado por programação, sou um desenvolvedor de software estudando na <strong>BeTrybe</strong><br> 
 
 - No meu tempo livre adoro curtir com as pessoas ao meu lado, gosto também de séries, filmes e uns bons animes<br>
 
-- 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito de back-end, estou aprendendo bastante sobre o NodeJS e utilizando bastante o Express. Futuramente focarei mais em aprender sobre arquitetura, tenho noção dos princípios MVC e SOLID, mas estou sempre em busca de entender mais estes conceitos e absorver novos.<br>
+- 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito de back-end, estou aprendendo bastante sobre o NodeJS e utilizando bastante o Express. Futuramente focarei mais em aprender sobre arquitetura, tenho noção dos princípios MSC e SOLID, mas estou sempre em busca de entender mais estes conceitos e absorver novos.<br>
 
 - 🖥️ Quando se trata de Front-end eu curto utilizar o React, gosto de pensar em como fazer a lógica, reutilizar componentes e manter o código organizado. Agora, fazer um layout bonito usando o CSS não é minha especialidade, mas como eu disse, estou nesta trajetória justamente para aprender, ou seja, estou aceitando aulas de design. 😂
 
@@ -61,13 +61,13 @@ As principais habilidades técnicas estudadas são JavaScript, HTML, CSS, React,
 <tr><td>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCoruja&show_icons=true&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=caioBatistaDosSantos&show_icons=true&theme=blue-green" />
   </a>
 
 </td><td>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoruja&layout=compact&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioBatistaDosSantos&layout=compact&theme=blue-green" />
   </a>
 
 </td></tr>
