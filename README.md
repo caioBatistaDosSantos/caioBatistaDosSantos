@@ -7,7 +7,7 @@
 
 - No meu tempo livre adoro curtir com as pessoas ao meu lado, gosto também de séries, filmes e uns bons animes<br>
 
-- 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito de back-end, estou aprendendo bastante sobre o NodeJS e utilizando bastante o Express. Futuramente focarei mais em aprender sobre arquitetura, tenho noção dos princípios MSC e SOLID, mas estou sempre em busca de entender mais estes conceitos e absorver novos.<br>
+- 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito de back-end, estou aprendendo e utilizando bastante o NodeJS e Express. Futuramente focarei mais em aprender sobre arquitetura, tenho noção dos princípios MSC e SOLID, mas estou sempre em busca de entender mais estes conceitos e absorver novos.<br>
 
 - 🖥️ Quando se trata de Front-end eu curto utilizar o React, gosto de pensar em como fazer a lógica, reutilizar componentes e manter o código organizado. Agora, fazer um layout bonito usando o CSS não é minha especialidade, mas como eu disse, estou nesta trajetória justamente para aprender, ou seja, estou aceitando aulas de design. 😂
 
