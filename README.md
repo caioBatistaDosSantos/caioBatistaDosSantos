@@ -18,6 +18,14 @@ A Trybe é uma escola para pessoas que querem construir uma carreira de sucesso 
 As principais habilidades técnicas estudadas são JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git [...] entre outras linguagens e frameworks.
 <br>
 
+<h3> 🤝🏻 &nbsp;Eae vamos nos conectar? Meus Contatos:</h3>
+
+<!-- <p align="center"> -->
+<a href="https://www.linkedin.com/in/caio-batista-dos-santos/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:drcaiosan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=5519999999899&text=Ol%C3%A1,%20Caio!%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<!-- </p> -->
+
 ## Minhas tecnologias e Ferramentas:
 <br>
 <div style="display: inline_block"><br>
@@ -47,14 +55,6 @@ As principais habilidades técnicas estudadas são JavaScript, HTML, CSS, React,
 </div>
 
 <br/>
-
-<h3> 🤝🏻 &nbsp;Eae vamos nos conectar? Meus Contatos:</h3>
-
-<!-- <p align="center"> -->
-<a href="https://www.linkedin.com/in/caio-batista-dos-santos/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:drcaiosan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://api.whatsapp.com/send?phone=5519999999899&text=Ol%C3%A1,%20Caio!%20"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<!-- </p> -->
 
 ## GitHub Stats
 <table>
