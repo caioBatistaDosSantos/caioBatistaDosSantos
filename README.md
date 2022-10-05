@@ -51,7 +51,7 @@ As principais habilidades técnicas estudadas são JavaScript, HTML, CSS, React,
 # Aprendendo no momento:
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="35" width="99" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img align="center" alt="C#" height="40" width="35" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="C#" height="35" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
 <br/>
