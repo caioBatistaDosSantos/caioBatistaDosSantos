@@ -13,7 +13,7 @@
 
 # Sobre a BeTrybe:
 
-A Trybe é uma escola para pessoas que querem construir uma carreira de sucesso em tecnologia e que se compromete integralmente com seus estudantes. O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+A Trybe é uma escola para pessoas que querem construir uma carreira de sucesso em tecnologia e que se compromete integralmente com seus estudantes. O programa conta com mais de 1.500 horas de aulas, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
 As principais habilidades técnicas estudadas são JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git [...] entre outras linguagens e frameworks.
 <br>
