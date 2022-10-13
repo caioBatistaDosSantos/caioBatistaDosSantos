@@ -55,7 +55,7 @@ As principais habilidades técnicas estudadas são JavaScript, HTML, CSS, React,
 </div>
 
 <br/>
-<!-- 
+
 ## GitHub Stats
 <table>
 <tr><td>
@@ -71,4 +71,4 @@ As principais habilidades técnicas estudadas são JavaScript, HTML, CSS, React,
   </a>
 
 </td></tr>
-</table> -->
+</table>
