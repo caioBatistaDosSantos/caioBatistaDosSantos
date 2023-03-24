@@ -3,13 +3,13 @@
 <img width="35%" align="right" alt="Development" src="https://camo.githubusercontent.com/95475d0056f99f50fba3b5f027ac9fbb15d0fc422f675d445df20ccac6e70539/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632313730353534323433372f3473685579456b32742e676966" />
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- Apaixonado por programação, sou um desenvolvedor de software estudando na <strong>BeTrybe</strong><br> 
+- Apaixonado por programação, sou um desenvolvedor de software formado na <strong>BeTrybe</strong>, agora cursando Análise e Desenvolvimento de Sistemas na <strong>Unisinos</strong>.<br> 
 
 - No meu tempo livre adoro curtir com as pessoas ao meu lado, gosto também de séries, filmes e uns bons animes<br>
 
-- 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito de back-end, estou aprendendo e utilizando bastante o NodeJS e Express. Futuramente focarei mais em aprender sobre arquitetura, tenho noção dos princípios MSC e SOLID, mas estou sempre em busca de entender mais estes conceitos e absorver novos.<br>
+- 👨🏻‍💻 Atualmente eu vivo codando, estou muito focado em aprender cada vez mais a respeito de back-end, estou aprendendo e utilizando bastante o NodeJS e Express, e profissionalmente desenvolvo muito utilizando C# .NET. Futuramente focarei mais em aprender sobre arquitetura, tenho noção dos princípios MSC e SOLID, mas estou sempre em busca de entender mais estes conceitos e absorver novos.<br>
 
-- 🖥️ Quando se trata de Front-end eu curto utilizar o React, gosto de pensar em como fazer a lógica, reutilizar componentes e manter o código organizado. Agora, fazer um layout bonito usando o CSS não é minha especialidade, mas como eu disse, estou nesta trajetória justamente para aprender, ou seja, estou aceitando aulas de design. 😂
+- 🖥️ Quando se trata de Front-end eu curto utilizar o React e o Vue, gosto de pensar em como fazer a lógica, reutilizar componentes e manter o código organizado. Agora, fazer um layout bonito usando o CSS não é minha especialidade, mas como eu disse, estou nesta trajetória justamente para aprender, ou seja, estou aceitando aulas de design. 😂
 
 # Sobre a BeTrybe:
 
